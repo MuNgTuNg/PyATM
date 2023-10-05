@@ -6,6 +6,7 @@
 ![alt text](console_input.png)
 
 <br>
+
 <br>
 - They are stored as .txt files and formatted as such:
 <br>
