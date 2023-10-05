@@ -1,7 +1,9 @@
 # Cards
 ---
 - Cards are stored in the cards directory, directly below the ATM.py file.
+<br>
 ![alt text](console_input.png)
+
 <br>
 - They are stored as .txt files and formatted as such:
 <br>
