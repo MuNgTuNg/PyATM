@@ -5,7 +5,9 @@
 <br>
 - They are stored as .txt files and formatted as such:
 <br>
+
 ![alt text](vim_text.png)
+
 <br>
 The parameters are as follows:
 name: The name of the cardholder.
