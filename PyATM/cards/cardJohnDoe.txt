@@ -1,0 +1,4 @@
+name:(Mr John Doe)
+number:(123456789)
+pin:(1234)
+balance:(1000000)
