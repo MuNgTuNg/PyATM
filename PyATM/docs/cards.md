@@ -2,11 +2,11 @@
 ---
 - Cards are stored in the cards directory, directly below the ATM.py file.
 ![alt text](console_input.png)
-
+<br>
 - They are stored as .txt files and formatted as such:
-
+<br>
 ![alt text](vim_text.png)
-
+<br>
 The parameters are as follows:
 name: The name of the cardholder.
 number: The "ID" of the card
