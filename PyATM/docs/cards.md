@@ -8,7 +8,9 @@
 <br>
 
 <br>
+
 - They are stored as .txt files and formatted as such:
+
 <br>
 
 ![alt text](vim_text.png)
